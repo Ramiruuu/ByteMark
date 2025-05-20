@@ -1,0 +1,89 @@
+/* signup.css */
+/* Basic container and form styling */
+.signup_area {
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f7f8fa;
+    padding: 40px 0;
+}
+
+.signup_wrapper {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.07);
+    padding: 40px 32px;
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.signup_wrapper h2 {
+    text-align: center;
+    margin-bottom: 24px;
+    font-weight: 600;
+    color: #2d314d;
+}
+
+.signup_form .form_group {
+    margin-bottom: 18px;
+}
+
+.signup_form label {
+    display: block;
+    margin-bottom: 6px;
+    color: #2d314d;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.signup_form input[type="text"],
+.signup_form input[type="email"],
+.signup_form input[type="password"] {
+    width: 100%;
+    padding: 10px 14px;
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+    font-size: 15px;
+    background: #f9fafb;
+    transition: border 0.2s;
+}
+
+.signup_form input:focus {
+    border-color: #5368df;
+    outline: none;
+}
+
+.signup_form .btn {
+    width: 100%;
+    padding: 12px 0;
+    background: #5368df;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.signup_form .btn:hover {
+    background: #2d314d;
+}
+
+.signup_form p {
+    text-align: center;
+    margin-top: 12px;
+    font-size: 14px;
+}
+
+.signup_form p a {
+    color: #5368df;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.signup_form p a:hover {
+    text-decoration: underline;
+}

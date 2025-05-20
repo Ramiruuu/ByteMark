@@ -1,0 +1,61 @@
+.login_area {
+    padding: 100px 0;
+    background: #f9f9f9;
+}
+
+.login_wrapper {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.login_wrapper h2 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.login_form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form_group {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.form_group label {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 8px;
+}
+
+.form_group input {
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.form_group .btn {
+    background: linear-gradient(45deg, #ff6e65, #fa725f);
+    color: #fff;
+    padding: 12px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.login_wrapper p {
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.login_wrapper p a {
+    color: #ff6e65;
+    text-decoration: none;
+}
