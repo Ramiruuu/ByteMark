@@ -67,7 +67,7 @@ ByteMark is a modern, user-friendly web application for managing bookmarks, brow
 
 ---
 
-## 📢 License
+## 📢 MIT License
 
 This project is for educational and demonstration purposes.  
 All rights
