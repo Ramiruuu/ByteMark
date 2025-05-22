@@ -60,7 +60,10 @@ ByteMark is a modern, user-friendly web application for managing bookmarks, brow
 
 ## 👤 Author
 
-**Remar Gonzaga Oclarit**  
+**Remar Gonzaga Oclarit**
+**Final Web System PIT**
+***BSIT - IT2R5***
+
 - [Facebook](https://www.facebook.com/mar.374322/)
 - [Instagram](https://www.instagram.com/lluv.ramiruuu?igsh=ZnZqYXUyNm9qN25p)
 - [Pinterest](https://pin.it/4khTJfOYG)
